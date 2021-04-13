@@ -1,0 +1,36 @@
+
+
+
+.firstbox
+{
+background-color: rgb(58, 51, 51);
+display: block;
+font-family: Verdana, Geneva, Tahoma, sans-serif;
+color: white;
+margin-bottom: -20px;
+}
+
+
+.academicbox
+{
+background-color: rgb(66, 66, 122);
+font-family: Verdana, Geneva, Tahoma, sans-serif;
+Color: white;
+margin-bottom: -20px;
+
+}
+
+.mark
+{
+ background-color:grey;
+  color: white;
+  
+}
+.workbox
+{
+background-color: rgb(136, 197, 218);
+font-family: Verdana, Geneva, Tahoma, sans-serif;
+Color: white;
+
+}
+
